@@ -1,0 +1,8 @@
+name: DestroyTheNexus
+version: '${project.version}'
+main: com.soyaldo.destroythenexus.DestroyTheNexus
+api-version: 1.18
+softdepend: [ PlaceholderAPI ]
+authors: [ SoyAldo ]
+description: Destroy the Nexus plugin for your server
+website: https://soyaldo.com/resource/destroythenexus
